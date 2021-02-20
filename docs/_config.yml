@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My personal wearable medical device (WMD) journey as (Data) Scientist
   working in the industry. Take a look also at my <a href=https://www.researchgate.net/profile/Francesco-Onorati>ResearchGate profile</a>
   for some more information about my current and past projects in the field.
-baseurl: "/fittowear.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/fittowear" # the subpath of your site, e.g. /blog
 url: "https://fonorati.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OnoratiFra
 github_username:  fonorati
