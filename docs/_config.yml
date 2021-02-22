@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   working in the industry. Take a look also at my <a href=https://www.researchgate.net/profile/Francesco-Onorati>ResearchGate profile</a>
   for some more information about my current and past projects in the field.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fonorati.github.io/fittowear" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fonorati.github.io/fittowear/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OnoratiFra
 github_username:  fonorati
 linkedin_username: francesco-onorati

@@ -3,6 +3,7 @@ layout: post
 title:  "What is this about?"
 date:   2021-02-17 00:00:00 -0500
 categories: uncategorized
+published: true
 excerpt_separator: <!-- excerpt-end -->
 ---
 
