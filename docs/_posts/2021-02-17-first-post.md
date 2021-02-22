@@ -6,7 +6,7 @@ categories: uncategorized
 excerpt_separator: <!-- excerpt-end -->
 ---
 
-Wearable devices are everywhere, in uncountable forms. They can d o many things, most of which we couldn't even imagine a few years ago. Wearables quickly became a status symbol. Like everything nowadays, they also became a distinctive factor, something that characterizes people wearing them. In a sense, people wear these devices \"to fit in,\" to be included or not to feel left out or behind.
+Wearable devices are everywhere, in uncountable forms. They can do many things, most of which we couldn't even imagine a few years ago. Wearables quickly became a status symbol. Like everything nowadays, they also became a distinctive factor, something that characterizes people wearing them. In a sense, people wear these devices \"to fit in,\" to be included or not to feel left out or behind.
 
 I witnessed this process, and in a sense, I was a (small) part of it. When I entered the market as a (Data) Scientist in 2014, leaving academia for industry, Fitbit had just launched [Fitbit Flex](https://en.wikipedia.org/wiki/List_of_Fitbit_products#Fitbit_Flex) and Apple was still in the process of developing its [first generation Apple Watch](https://en.wikipedia.org/wiki/Apple_Watch#First_generation).
 
