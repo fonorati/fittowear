@@ -92,7 +92,7 @@ This completes the definition.
 <!-- excerpt-start -->
 A WMD
 * is continuously (or, almost continuously) worn by the user.
-* records (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
+* captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
 * computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition(s).
 * is intended for use in the diagnosis, or the cure, mitigation, treatment, or prevention of a disease or a health condition.
 * is clinically validated for efficacy and safety for its intended use.
