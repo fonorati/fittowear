@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "What is a medical wearable device?"
+title: "What is a wearable medical device?"
 date: 2021-03-22 00:00:00 -0400
-categories: [medical wearable device]
+categories: [wearable medical device]
 published: true
 excerpt_separator: <!-- excerpt-end -->
 ---
 
 All definitions are partial, an approximation of an image in our mind, of what we think, based on the available information. The value of a definition is not only how precise it is (how close it is to the reality it describes), but also how concise (how efficient we are in the description), how unanimous (how many people consider it a good or a standard definition), and how operational (it provides what is needed for an entity to fit the definition) it is.
 
-I thought a lot about what a good definition for a medical wearable device (MWD) could be. A MWD is at the intersection of two overlapping but yet separate entities: wearable devices and a medical devices. In addition, as a medical device, MWD characteristics are pretty unique, being a very complex electro-mechanical device with many subsystems interacting with each other and with different external entities, either human (like a user, a physician, a caregiver) or non-human (a computer, another device, a database).
+I thought a lot about what a good definition for a wearable medical device (WMD) could be. A WMD is at the intersection of two overlapping but yet separate entities: wearable devices and a medical devices. In addition, as a medical device, WMD characteristics are pretty unique, being a very complex electro-mechanical device with many subsystems interacting with each other and with different external entities, either human (like a user, a physician, a caregiver) or non-human (a computer, another device, a database).
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wearable_technology) defines wearable devices (specifically, wearable technology) in the following way:
 
@@ -27,21 +27,21 @@ If we move to the specialized/scientific Literature, the definition of wearable 
 
 I find it very appropriate because there is no uncertainty, no confusion, and also because the last statement adds a nice touch ("without interrupting or limiting the user's motions"): if you cannot move, you are not wearing the device, you are simply attached to it.
 
-On the other hand, when defining MWDs (often referred to as healthcare wearable devices, or wearable technology in healthcare) I find the definition in the specialized/scientific Literature often diluted in a long list of subsets and applications [Lee _et al_]. Moreover, there is still confusion between what is health-related and what is instead individually clinically relevant.
+On the other hand, when defining WMDs (often referred to as healthcare wearable devices, or wearable technology in healthcare) I find the definition in the specialized/scientific Literature often diluted in a long list of subsets and applications [Lee _et al_]. Moreover, there is still confusion between what is health-related and what is instead individually clinically relevant.
 
-In this post, I will try to provide a (allegedly) technical, concise, operational definition of what a MWD is, or at least what I personally think a MWD is.
+In this post, I will try to provide a (allegedly) technical, concise, operational definition of what a WMD is, or at least what I personally think a WMD is.
 
 I will start with a very simple, intuitive definition.
 
-A MWD
+A WMD
 * is continuously (or almost continuously) worn by the user (according to the definition above, "worn" does not simply mean "attached").
 * is used in relation to some physiological and/or behavioral event(s).
 
-Based on this definition, everybody has encountered MWD in their lives, way before Fitbit and similar ones: glasses (another very common device, hearing aids, already requires a more specific formulation).
+Based on this definition, everybody has encountered WMD in their lives, way before Fitbit and similar ones: glasses (another very common device, hearing aids, already requires a more specific formulation).
 
 To make a narrower and more specific definition, I need more precise statements.
 
-A MWD
+A WMD
 * is continuously (or almost continuously) worn by the user.
 * captures (continuously or not) physiologically or behaviorally related signals from the user via one or more sensors.
 * is used in relation to some physiological and/or behavioral event(s).
@@ -49,22 +49,22 @@ A MWD
 Based on this definition, quite a number of examples come to mind. To me, the most popular and closest fit to this definition is a fitness, or activity, tracker, i.e. a device that computes one or more indexes related to physical exercise.
 Even though it has been demonstrated that physical exercise is somehow related to the individual’s health (at least at a population level) [Warburton _et al_], information about physical exercise in the general population can be hardly individually clinically relevant, if not for specific medical conditions [Giggins _et al_].
 
-To generalize, wellness, fitness and/or medical research wearables are not necessarily MWD.
+To generalize, wellness, fitness and/or medical research wearables are not necessarily WMD.
 
 Thus, it is necessary again to slightly modify the definition.
 
-A MWD
+A WMD
 * is continuously (or, almost continuously) worn by the user.
 * captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
 * is used in relation to the user's health.
 
-This definition describes something close to what I think a MWD should do. Maybe a sleep tracker, which evaluates how much and/or how good the user sleeps, with various degrees of precision.
+This definition describes something close to what I think a WMD should do. Maybe a sleep tracker, which evaluates how much and/or how good the user sleeps, with various degrees of precision.
 
 But again, I am not quite there yet. Even though [sleep is more related to the individual health](https://medlineplus.gov/ency/patientinstructions/000871.htm) than physical exercise, we cannot really say that simply measuring some general characteristics of the individual health makes a device intended for a medical or a clinical use.
 
 Again, I need to review my definition.
 
-A MWD
+A WMD
 * is continuously (or, almost continuously) worn by the user.
 * captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
 * is use in relation to the user's health.
@@ -77,9 +77,9 @@ To do so, I will start with a personal revised definition of a medical device by
 
 This definition clearly says that a medical device is a device with a specific purpose.
 
-The MWD definition can then be modified as follows.
+The WMD definition can then be modified as follows.
 
-A MWD
+A WMD
 * is continuously (or, almost continuously) worn by the user.
 * captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
 * computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition(s).
@@ -90,7 +90,7 @@ At this point, we still need to clarify one relation, i.e. the connection betwee
 This completes the definition.
 
 <!-- excerpt-start -->
-A MWD
+A WMD
 * is continuously (or, almost continuously) worn by the user.
 * records (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
 * computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition(s).
