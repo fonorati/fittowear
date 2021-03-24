@@ -7,9 +7,9 @@ published: true
 excerpt_separator: <!-- excerpt-end -->
 ---
 
-All definitions are partial, an approximation of an image in our mind, of what we think, based on the available information. The value of a definition is not only how precise it is (how close it is to the reality it describes), but also how concise (how efficient we are in the description), how unanimous (how many people consider it a good or a standard definition), and how operational (it provides what is needed for an entity to fit the definition) it is.
+All definitions are partial, an approximation of an image in our mind, of what we think, based on the available information. The value of a definition is not only how precise it is (how close it is to the reality it describes), but also how concise (how efficient the description is), how unanimous (how many people consider it a good or a standard definition), and how operational (it provides what is needed for an entity to fit the definition) it is.
 
-I thought a lot about what a good definition for a wearable medical device (WMD) could be. A WMD is at the intersection of two overlapping but yet separate entities: wearable devices and a medical devices. In addition, as a medical device, WMD characteristics are pretty unique, being a very complex electro-mechanical device with many subsystems interacting with each other and with different external entities, either human (like a user, a physician, a caregiver) or non-human (a computer, another device, a database).
+I thought a lot about what a good definition for a wearable medical device (WMD) could be. A WMD is at the intersection of two overlapping but yet separate entities: wearable devices and medical devices. In addition, as medical devices, WMDs characteristics are pretty unique, being very complex electro-mechanical devices with many subsystems interacting with each other and with different external entities, either human (like a user, a physician, a caregiver) or non-human (a computer, another device, a database).
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wearable_technology) defines wearable devices (specifically, wearable technology) in the following way:
 
