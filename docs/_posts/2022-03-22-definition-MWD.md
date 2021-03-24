@@ -21,13 +21,13 @@ In one of the following paragraph, [Wearable technology and health](https://en.w
 
 >Wearable technology is often used to monitor a user's health.
 
-If we move to the specialized/scientific Literature, the definition of wearable device is more rigorous. I personally like the following definition [Gao _et al_]:
+Moving to the specialized/scientific Literature, the definition of wearable device is more rigorous. I personally like the following definition [Gao _et al_]:
 
 >(Wearable devices are) Devices that can be worn or mated with human skin to continuously and closely monitor an individual's activities, without interrupting or limiting the user's motions.
 
-I find it very appropriate because there is no uncertainty, no confusion, and also because the last statement adds a nice touch ("without interrupting or limiting the user's motions"): if you cannot move, you are not wearing the device, you are simply attached to it.
+I find it very appropriate because there is little uncertainty, no confusion, and also because the last statement adds a nice touch ("without interrupting or limiting the user's motions"): if you cannot move, you are not wearing the device, you are simply attached to it.
 
-On the other hand, when defining WMDs (often referred to as healthcare wearable devices, or wearable technology in healthcare) I find the definition in the specialized/scientific Literature often diluted in a long list of subsets and applications [Lee _et al_]. Moreover, there is still confusion between what is health-related and what is instead individually clinically relevant.
+On the other hand, when defining WMDs (often referred to as healthcare wearable devices, or wearable technology in healthcare) I find the definition in the specialized/scientific Literature often diluted in a long list of subsets and applications [Lee _et al_]. Moreover, there is still confusion between what is health-related and what is individually clinically relevant, instead.
 
 In this post, I will try to provide a (allegedly) technical, concise, operational definition of what a WMD is, or at least what I personally think a WMD is.
 
@@ -35,7 +35,7 @@ I will start with a very simple, intuitive definition.
 
 A WMD
 * is continuously (or almost continuously) worn by the user (according to the definition above, "worn" does not simply mean "attached").
-* is used in relation to some physiological and/or behavioral event(s).
+* is used in relation to one or more physiological and/or behavioral event.
 
 Based on this definition, everybody has encountered WMD in their lives, way before Fitbit and similar ones: glasses (another very common device, hearing aids, already requires a more specific formulation).
 
@@ -44,7 +44,7 @@ To make a narrower and more specific definition, I need more precise statements.
 A WMD
 * is continuously (or almost continuously) worn by the user.
 * captures (continuously or not) physiologically or behaviorally related signals from the user via one or more sensors.
-* is used in relation to some physiological and/or behavioral event(s).
+* is used in relation to one or more physiological and/or behavioral event.
 
 Based on this definition, quite a number of examples come to mind. To me, the most popular and closest fit to this definition is a fitness, or activity, tracker, i.e. a device that computes one or more indexes related to physical exercise.
 Even though it has been demonstrated that physical exercise is somehow related to the individual’s health (at least at a population level) [Warburton _et al_], information about physical exercise in the general population can be hardly individually clinically relevant, if not for specific medical conditions [Giggins _et al_].
@@ -67,8 +67,8 @@ Again, I need to review my definition.
 A WMD
 * is continuously (or, almost continuously) worn by the user.
 * captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
+* computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition.
 * is use in relation to the user's health.
-* computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition(s).
 
 At this point, I absolutely need to clarify what "related" means, explaining the nature of the relations I care-freely suggested in the definition.
 To do so, I will start with a personal revised definition of a medical device by the [FDA](https://www.fda.gov/medical-devices/classify-your-medical-device/how-determine-if-your-product-medical-device).
@@ -82,7 +82,7 @@ The WMD definition can then be modified as follows.
 A WMD
 * is continuously (or, almost continuously) worn by the user.
 * captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
-* computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition(s).
+* computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition.
 * is intended for use in the diagnosis, or the cure, mitigation, treatment, or prevention of a disease or a health condition.
 
 At this point, we still need to clarify one relation, i.e. the connection between the information provided by the sensors data (or the clinically relevant indexes) and the medical condition(s). It is natural to express this relation in terms of efficacy (how relevant is this information) and safety (how safe is to trust this information). In other words, we need to clinically validate the device to be effective and safe for its intended use. This does not mean that the device ability for its intended use is generally or arbitrarily good. On the contrary, this means that the device performs statistically equal or better than some real (and previously validated) or hypothetical (and clinically relevant) reference. The decision on how good the device should perform (i.e., how strong the relation is) is not (totally) arbitrary, and most of all cannot be decided by the manufacturer. This makes the whole difference in the world.
@@ -93,7 +93,7 @@ This completes the definition.
 A WMD
 * is continuously (or, almost continuously) worn by the user.
 * captures (not necessarily continuously) physiologically or behaviorally related signals from the user by one or more sensors.
-* computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition(s).
+* computes one or more aggregated clinically relevant indexes related to one or more, current or future, user's health condition.
 * is intended for use in the diagnosis, or the cure, mitigation, treatment, or prevention of a disease or a health condition.
 * is clinically validated for efficacy and safety for its intended use.
 <!-- excerpt-end -->
